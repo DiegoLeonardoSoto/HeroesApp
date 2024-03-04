@@ -11,7 +11,6 @@ const CharactersByHero = ({ alter_ego, characters }) => {
 const HeroCard = ({
   id,
   superhero,
-  publisher,
   alter_ego,
   first_appearance,
   characters
