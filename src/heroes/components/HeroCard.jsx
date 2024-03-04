@@ -15,7 +15,7 @@ const HeroCard = ({
   first_appearance,
   characters
 }) => {
-  const heroImageURL = `/assets/heroes/${id}.jpg`
+  const heroImageURL = `/heroes/${id}.jpg`
 
   return (
     <div className="col animate__animated animate__fadeIn">
